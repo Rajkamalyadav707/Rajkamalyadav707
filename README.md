@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rajkamalyadav707
-- 👀 I’m interested in Software Development .
+- 👋 Hi, I’m RAJ KAMAL YADAV
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on C++ projects.
 - 📫 How to reach me rajgcet.edu@gmail.com
