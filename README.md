@@ -74,17 +74,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
   
  <img src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667" alt="flutter" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width: 100%;">
   
-  <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
-  
-                                                                                                                  
-                                                                                                                   
-                                                                                                                                                                                                                               
-                                                                                                                   
+  <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">                      
 </p>
-
-
-![Snake animation](https://github.com/Rajkamalyadav707/Rajkamalyadav707/blob/output/github-contribution-grid-snake.svg)
-
-
 
 Looking for an opportunity to explore my extreme interest in the fields of development and programming and to gain experience and industry exposure of working in a professional environment while contributing to the industry in an innovative way.
