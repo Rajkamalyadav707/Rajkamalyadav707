@@ -34,21 +34,16 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
+    "C++",
+    "Python",
+    "Full Stack Development",
     "Core Programming",
     "Data structure & algorithm",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
   ]
   
 currently_learning: ["C++,Android,Docker, Kubernetes and React Native,Full Stack Development"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
+hobbies: ["Gaming", "Cinema", "Cricket", "Book Reading"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
